@@ -1,6 +1,6 @@
 # expanse_tracker
 
-A new Flutter project.
+A Flutter-based mobile application for tracking daily expenses. The app features a user-friendly interface with both light and dark themes, allowing users to manage and visualize their expenses effectively. This project demonstrates the use of Material Design, customizable themes, and state management in Flutter
 
 ## Getting Started
 
